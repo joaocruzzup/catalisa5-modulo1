@@ -1,0 +1,21 @@
+começo do algoritmo
+1. Acordar;
+2. Levantar da ama;
+3. Molhar o rosto;
+4. Preparar o café;
+5. Fazer uma torrada;
+6. Colocar o café na xícara;
+7. Colocar a torrada no prato; 
+8. Comer o café e a torrada;
+9. Aguardar 10 minutos;
+10. Tomar banho;
+11. Escovar os dentes;
+12. Vestir a roupa;
+13. Ligar o computador profissional;
+14. Sentar na cadeira;
+15. Acessar e-mail;
+16. Entrar na sala do meet;
+17. Ligar a câmera;
+18. Fechar o microfone;
+19. Começar a trabalhar;
+fim do algoritmo;
